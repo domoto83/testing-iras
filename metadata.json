@@ -1,0 +1,6 @@
+{
+  "name": "IRAS - Inland Revenue Authority of Singapore",
+  "description": "Digital tax portal for Singapore featuring tax filing deadlines, interactive calculators, myTax portal login, tax guides, and IRAS AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
